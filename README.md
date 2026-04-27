@@ -1,4 +1,4 @@
-# Project Description
+# DDR Clone
 
 Inspired by Dance Dance Revolution, built using Unreal Engine and C++.
 
