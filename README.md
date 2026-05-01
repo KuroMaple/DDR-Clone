@@ -8,8 +8,7 @@ Inspired by Dance Dance Revolution, built using Unreal Engine and C++.
 Players must time their inputs precisely with incoming notes, syncing gameplay with music to build combos and achieve high scores.
 
 ## Demo Video (click to YouTube)
-[![Watch the demo](https://i9.ytimg.com/vi_webp/t5xNpEB1FV0/mq2.webp?sqp=CMjDvs8G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD8gVChyMA8=&rs=AOn4CLDzbLwcBodlAzoH377bogNuPX3fPg)](https://www.youtube.com/watch?v=t5xNpEB1FV0&time_continue=0&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fhassan-hashmi.com%2F)
-
+[![Watch the demo](https://github.com/user-attachments/assets/5d5a20f3-57da-42e6-aec7-71a47ce6f918)](https://www.youtube.com/watch?v=t5xNpEB1FV0&time_continue=0&source_ve_path=MjM4NTE&embeds_referring_euri=https%3A%2F%2Fhassan-hashmi.com%2F)
 
 
 Features
